@@ -1,2 +1,2 @@
-# Shortener-Mern
+# Shortener-MERN
 MERN Stack Practice
